@@ -1,0 +1,54 @@
+{
+  "token": "ODkxNDI3ODgxNTkzNTAzNzY2.YU-M6A.1y-fY3t5dTVBGwTESWQh88c7Ajw",
+  "prefix": "*",
+
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "Infinite-server.pouya6672.repl.co",
+         "port": 443,
+         "password": "root@kali1H",
+         "secure": true
+       }
+     ]
+  },
+
+ "spotify": {
+    "clientSecret": "f803c346e8e8453888d70f499ab01b2b",
+    "clientID": "36c3ec16afa14c4a96d558f5b6d95578"
+  },
+
+  "settings": {
+       "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "🔶",
+    "leaveOnEmpty_Channel" : {
+      "enabled": true,
+      "time_delay": 60000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": true,
+      "time_delay": 30000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,         "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  },
+
+
+  "ownerIDS": ["733082179126558720"],
+
+
+  "status": {
+    "text": "*help",
+    "type": "LISTENING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://discord.com/api/oauth2/authorize?client_id=891427881593503766&permissions=8&scope=bot"
+  }
+
+}
